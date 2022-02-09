@@ -1,0 +1,21 @@
+body{
+    background-color: palegoldenrod;
+}
+input{
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+#form{
+    margin-bottom: 30px;
+}
+.box{
+    margin-left: 43%;
+    margin-top: 13%;
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+    border-radius: 18px;
+}
